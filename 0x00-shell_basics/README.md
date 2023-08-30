@@ -9,4 +9,5 @@ this 8th file add here
 this is remove file.
 like above but for dir.
 this cd to previous one .
+the new file to list all files.
 
