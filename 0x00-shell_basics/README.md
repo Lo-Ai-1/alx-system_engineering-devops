@@ -8,4 +8,5 @@ this is 7th file added here doing the mkdir.
 this 8th file add here 
 this is remove file.
 like above but for dir.
+this cd to previous one .
 
