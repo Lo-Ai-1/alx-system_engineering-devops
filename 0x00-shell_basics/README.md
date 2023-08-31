@@ -14,4 +14,5 @@ this new line for knowing the type of file .
 we have softlink file .
  using a cp file .
 add mv files 
+new rm 
 
